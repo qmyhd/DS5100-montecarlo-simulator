@@ -1,6 +1,6 @@
 ```markdown
 # Monte Carlo Simulator
-DS 5100 | Summer 2024 | Residential
+DS 5100 | Summer 2024 
 
 ## Metadata
 - **Package Name**: Montecarlo
