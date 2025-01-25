@@ -1,10 +1,14 @@
 ```markdown
 # Monte Carlo Simulator
-DS 5100 | Summer 2024 
+DS 5100 | Summer 2024
+
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ## Metadata
 - **Package Name**: Montecarlo
-- **Description**: Play a Game of Rolling Dice, and Analyze the Results of Those Rolls.
+- **Description**: A Python package for rolling dice, modifying weights, and analyzing probabilities using Monte Carlo simulations.
 - **Version**: 1.0
 - **Author**: Qais Youssef
 - **License**: MIT License
@@ -12,7 +16,7 @@ DS 5100 | Summer 2024
 ## Installation Instructions
 To install the package, use the following command:
 ```sh
-pip install git+https://github.com/qmyhd/DS5100-FinalProject-qmy6cv.git
+pip install git+https://github.com/qmyhd/DS5100-montecarlo-simulator.git
 ```
 
 ## Dependencies
