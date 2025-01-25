@@ -2,10 +2,6 @@
 # Monte Carlo Simulator
 DS 5100 | Summer 2024
 
-![Python](https://img.shields.io/badge/Python-3.12%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
 ## Metadata
 - **Package Name**: Montecarlo
 - **Description**: A Python package for rolling dice, modifying weights, and analyzing probabilities using Monte Carlo simulations.
